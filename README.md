@@ -16,3 +16,5 @@ and devide their projects up into multiple modules or libraries.
 I also hope to eventuall expand to other topics beyond just the build and support tools, like somethings 
 hardware/firmware related, as well as all things software, although I find the documentation already available 
 tends to be better for that, plus my experience is still limited!
+
+Please see the wiki for the real stuff.
